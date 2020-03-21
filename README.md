@@ -1,2 +1,4 @@
 # Picsearch
-A search engine that use pictures to search picutres.
+
+Find the site were your picture appear with Picsearch, a reverse image search engine.
+
